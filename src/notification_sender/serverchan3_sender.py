@@ -80,6 +80,7 @@ class Serverchan3Sender:
             params = {
                 'title': title,
                 'desp': content,
+                'tags': '持仓建议',
                 'options': {}
             }
 
